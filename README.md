@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm waiting for that one bug to encounter which will make me reconsider my life choices.
 
 <!--
 **Bhashkarjya/Bhashkarjya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
